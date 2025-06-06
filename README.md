@@ -1,7 +1,3 @@
-Here's a **short and neat `README.md`** file version of your project summary, tailored for clarity and GitHub friendliness:
-
----
-
 # Liver Cirrhosis Stage Prediction
 
 Predicting Stage 4 liver cirrhosis using clinical and demographic data from the Mayo Clinic PBC study.
@@ -62,14 +58,3 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost shap lifelines
 ## ⚠️ Known Issues
 
 * **Survival analysis** section is incomplete due to dataframe modification. Reload original dataset before this step.
-
-## 🔮 Future Work
-
-* Complete survival modeling
-* Hyperparameter tuning (e.g., GridSearchCV)
-* Try other models (e.g., LightGBM, CatBoost)
-* Feature engineering enhancements
-
----
-
-Let me know if you’d like a version with badges, visuals, or links!
